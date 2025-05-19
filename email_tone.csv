@@ -1,0 +1,354 @@
+text,label
+"Please find attached the requested file.",0
+"Per my last email, this was already resolved.",1
+"FIX THIS IMMEDIATELY!",2
+"I’d truly appreciate your assistance.",3
+"The meeting is scheduled for 3 PM.",0
+"Thanks in advance for your prompt response.",3
+"Were you even paying attention?",2
+"Just circling back on this.",0
+"I’ll defer to your expertise on this matter.",3
+"This is the third time I’ve reminded you.",1
+"DO NOT IGNORE THIS EMAIL.",2
+"Kindly review at your earliest convenience.",3
+"Let me know if you need further details.",0
+"Interesting how this keeps happening.",1
+"Your lack of urgency is unacceptable.",2
+"Thanks for your patience on this!",3
+"Forwarding for your awareness.",0
+"Glad you finally decided to respond.",1
+"WHY IS THIS STILL NOT DONE?",2
+"Would you mind double-checking this?",3
+"Per our conversation, here’s the update.",0
+"I’ll wait for your *detailed* explanation.",1
+"THIS IS UNPROFESSIONAL.",2
+"Your help on this would mean a lot.",3
+"The deadline has been extended to Friday.",0
+"Thanks for *finally* getting back to me.",1
+"ARE YOU EVEN LISTENING?",2
+"I’d be grateful for your feedback.",3
+"Please confirm receipt of this email.",0
+"Wow, thanks for the lightning-fast reply.",1
+"YOU’VE MADE THIS WORSE.",2
+"Whenever you have a moment would be great.",3
+"Attached is the revised proposal.",0
+"Just as I predicted, this failed.",1
+"THIS IS YOUR LAST WARNING.",2
+"Could you please clarify this point?",3
+"The project is on track for delivery.",0
+"Funny how my emails keep getting lost.",1
+"STOP WASTING MY TIME.",2
+"I appreciate your flexibility on this.",3
+"Here’s the link to the shared folder.",0
+"Sure, take your time... like always.",1
+"YOU’RE MISSING THE POINT.",2
+"Many thanks for your cooperation!",3
+"The system will be down for maintenance.",0
+"Nice of you to join the conversation.",1
+"THIS IS INCOMPETENCE.",2
+"Would it be possible to adjust the timeline?",3
+"FYI, the client approved the design.",0
+"Finally, some progress. Miracles happen.",1
+"DO YOU UNDERSTAND THE PROBLEM?",2
+"I’d love your thoughts when you’re free.",3
+"Reminder: Team sync at 10 AM tomorrow.",0
+"Glad we’re *finally* on the same page.",1
+"YOU’RE NOT FOLLOWING INSTRUCTIONS.",2
+"Thanks for bearing with me on this!",3
+"The budget has been approved.",0
+"Shocking how this wasn’t caught earlier.",1
+"THIS IS A DISASTER.",2
+"Could we discuss this further?",3
+"Updates have been pushed to the repo.",0
+"Thanks for the *minimal* effort.",1
+"ARE YOU SERIOUS RIGHT NOW?",2
+"I’m grateful for your support.",3
+"Please review the attached contract.",0
+"Wow, you *actually* responded.",1
+"YOU’RE FAILING TO DELIVER.",2
+"Your expertise would be invaluable here.",3
+"The webinar starts in 15 minutes.",0
+"Cool, another problem to fix myself.",1
+"THIS IS BEYOND UNACCEPTABLE.",2
+"I’d appreciate any guidance you can offer.",3
+"New policy documents have been uploaded.",0
+"Guess I’ll handle this myself, as usual.",1
+"STOP MAKING EXCUSES.",2
+"Thank you for your understanding!",3
+"Team lunch is scheduled for next Monday.",0
+"Thanks for the *blazing* fast reply.",1
+"YOU’RE NOT TAKING THIS SERIOUSLY.",2
+"Would you be open to a quick call?",3
+"Server maintenance is complete.",0
+"Surprise, another delay.",1
+"THIS IS RIDICULOUS.",2
+"Your prompt attention would be great.",3
+"The client sent their feedback.",0
+"Wow, you *almost* met the deadline.",1
+"ARE YOU EVEN TRYING?",2
+"I’m thankful for your teamwork.",3
+"New onboarding docs are available.",0
+"Finally, a response. Took only a week.",1
+"YOU’RE CREATING MORE WORK FOR ME.",2
+"Could we explore alternative options?",3
+"FYI: Parking lot will be closed Tuesday.",0
+"Thanks for the *minimalist* update.",1
+"THIS IS NOT WHAT WE AGREED.",2
+"I’d love your input when possible.",3
+"Agenda for tomorrow’s meeting is attached.",0
+"Shocking how this slipped through.",1
+"YOU’RE NOT MEETING EXPECTATIONS.",2
+"Thanks for your patience and support!",3
+"Reminder: Submit timesheets by EOD.",0
+"Glad you *finally* took action.",1
+"THIS IS UNFORGIVABLE.",2
+"Would you kindly review my draft?",3
+"New feature rollout begins next week.",0
+"Impressive how this got past QA.",1
+"STOP IGNORING MY REQUESTS.",2
+"I appreciate your quick turnaround.",3
+"Shared drive permissions have been updated.",0
+"Thanks for the *bare minimum*.",1
+"YOU’RE NOT FOLLOWING PROCESS.",2
+"Could you spare a moment to assist?",3
+"Office will close early on Friday.",0
+"Just when I thought it couldn’t get worse.",1
+"THIS IS COMPLETELY WRONG.",2
+"Your advice would be greatly appreciated.",3
+"Updated project timeline is attached.",0
+"Wow, you *almost* got it right.",1
+"ARE YOU AWARE OF THE CONSEQUENCES?",2
+"Thank you for your dedication!",3
+"New security protocols are in effect.",0
+"Guess I’ll add this to my to-do list.",1
+"YOU’RE NOT LISTENING.",2
+"Would you consider revising this section?",3
+"Team-building event next Thursday.",0
+"Thanks for the *vague* instructions.",1
+"THIS IS UNACCEPTABLE BEHAVIOR.",2
+"I’m grateful for your collaboration.",3
+"Deadline extended by two days.",0
+"Finally, some clarity. Took long enough.",1
+"YOU’RE NOT TAKING OWNERSHIP.",2
+"Could we align on priorities?",3
+"New software licenses have been assigned.",0
+"Surprise, another last-minute request.",1
+"THIS IS BEYOND FRUSTRATING.",2
+"Thanks for your flexibility on this.",3
+"Reminder: Performance reviews start Monday.",0
+"Glad you *eventually* figured it out.",1
+"YOU’RE MAKING THINGS WORSE.",2
+"I’d value your perspective on this.",3
+"Client demo rescheduled to 4 PM.",0
+"Wow, you *actually* read my email.",1
+"ARE YOU INTENTIONALLY DELAYING THIS?",2
+"Your help would make a huge difference.",3
+"New HR policies are now live.",0
+"Just when I thought we were done.",1
+"STOP OVERCOMPLICATING THIS.",2
+"Thank you for your timely response!",3
+"Q2 results have been published.",0
+"Thanks for the *incomplete* update.",1
+"YOU’RE NOT COMMUNICATING CLEARLY.",2
+"Could we touch base later today?",3
+"Office Wi-Fi will be upgraded tomorrow.",0
+"Shocking how this wasn’t flagged earlier.",1
+"THIS IS A MAJOR SETBACK.",2
+"I appreciate your attention to this.",3
+"New compliance training is mandatory.",0
+"Finally, a solution. Only took a month.",1
+"YOU’RE NOT MEETING DEADLINES.",2
+"Would you be able to provide guidance?",3
+"Team offsite planned for next month.",0
+"Thanks for the *confusing* feedback.",1
+"THIS IS NOT WHAT WE DISCUSSED.",2
+"Your support means a lot to me.",3
+"New expense reporting tool is live.",0
+"Guess I’ll have to clean this up too.",1
+"STOP PASSING THE BUCK.",2
+"Could we discuss this in person?",3
+"All-hands meeting at 9 AM sharp.",0
+"Wow, you *almost* followed directions.",1
+"ARE YOU EVEN QUALIFIED FOR THIS?",2
+"I’m thankful for your prompt action.",3
+"New customer survey is now open.",0
+"Finally, some accountability.",1
+"YOU’RE NOT RESPONDING TO URGENT ISSUES.",2
+"Would you mind proofreading this?",3
+"Quarterly bonuses will be paid Friday.",0
+"Thanks for the *minimal* assistance.",1
+"THIS IS UNPROFESSIONAL BEHAVIOR.",2
+"Your expertise is highly valued.",3
+"Remote work policy has been updated.",0
+"Just when I thought we turned a corner.",1
+"STOP MAKING UNREALISTIC DEMANDS.",2
+"Thank you for your patience!",3
+"New mentorship program launches Monday.",0
+"Glad you *finally* took this seriously.",1
+"YOU’RE NOT FOLLOWING UP.",2
+"I’d appreciate your honest feedback.",3
+"Client portal downtime scheduled.",0
+"Wow, you *actually* delivered on time.",1
+"ARE YOU AWARE OF THE IMPACT?",2
+"Could you share your insights on this?",3
+"New branding guidelines are attached.",0
+"Surprise, another miscommunication.",1
+"THIS IS A COMPLETE FAILURE.",2
+"Thanks for your cooperation on this.",3
+"Per our discussion, I've updated the proposal draft.",0
+"FYI, the budget report has been finalized.",0
+"The server upgrade is complete as of 10 AM.",0
+"Attached are the meeting notes for your review.",0
+"Team lunch has been postponed to next week.",0
+"New security badges will be issued on Monday.",0
+"Reminder: Project retrospective at 3 PM today.",0
+"The shared drive has been reorganized.",0
+"Client demo rescheduled due to conflicts.",0
+"Parking validation now requires manager approval.",0
+"Your input on the survey would be valuable.",0
+"Updated onboarding materials are now available.",0
+"Please RSVP for the holiday party by Friday.",0
+"The printer on floor 3 is out of service.",0
+"Q3 goals have been posted to the portal.",0
+"Just following up on the unread Slack message.",1
+"I see we’re taking the scenic route with this project.",1
+"Thanks for the *thorough* one-line response.",1
+"Glad we could align after only 5 follow-ups.",1
+"Per my last three emails, still awaiting feedback.",1
+"Interesting approach to ignoring priorities.",1
+"Wow, breaking speed records with this turnaround.",1
+"Cool, we’ll just pretend deadlines don’t exist.",1
+"Thanks for the 11th-hour changes. Super helpful.",1
+"Fascinating how this wasn’t an issue until now.",1
+"Please refer to the email chain you’ve ignored.",1
+"Your consistent inconsistency is impressive.",1
+"Let me know when this becomes a priority for you.",1
+"Quality work takes time... or so I’ve heard.",1
+"Glad we’ve established that urgency is subjective.",1
+"STOP CC’ING ME ON IRRELEVANT THREADS.",2
+"THIS ISN’T ROCKET SCIENCE - FIX IT NOW.",2
+"WHY AM I REPEATING MYSELF FOR THE 5TH TIME?",2
+"YOUR INACTION IS COSTING US TIME AND MONEY.",2
+"NO MORE EXCUSES - DELIVER TODAY.",2
+"THIS LEVEL OF INCOMPETENCE IS UNACCEPTABLE.",2
+"ARE YOU DELIBERATELY MISUNDERSTANDING?",2
+"WAKE UP AND DO YOUR JOB PROPERLY.",2
+"I WILL ESCALATE THIS TO YOUR MANAGER TODAY.",2
+"THIS IS THE WORST DELIVERABLE I’VE SEEN.",2
+"Would you be so kind as to share your insights?",3
+"I’d be deeply grateful for your perspective.",3
+"Your expertise would elevate this tremendously.",3
+"Whenever you have capacity would be wonderful.",3
+"Thank you for going above and beyond!",3
+"I truly appreciate your attention to detail.",3
+"Could we kindly revisit this together?",3
+"Your guidance has been invaluable—thank you!",3
+"I’d love to learn from your approach.",3
+"Many thanks for your patience and support.",3
+"Could we explore a collaborative solution?",3
+"Your thought leadership is inspiring.",3
+"Thank you for making time despite your busy schedule.",3
+"I’m sincerely grateful for your flexibility.",3
+"Would you consider mentoring me on this?",3
+"Your generosity with feedback is appreciated.",3
+"Let me know how I can make this easier for you.",3
+"The quarterly audit begins next Monday.",0
+"VPN access will be restricted after hours.",0
+"New compliance training modules are live.",0
+"Travel expense submissions now require receipts.",0
+"Updated brand guidelines have been published.",0
+"Funny how my calendar invites keep getting declined.",1
+"Thanks for the *generous* 2-minute response.",1
+"Glad we both agree deadlines are decorative.",1
+"Shocking how the goalposts keep moving.",1
+"Your selective reading skills are remarkable.",1
+"YOU’VE HAD WEEKS TO COMPLETE THIS BASIC TASK.",2
+"STOP PASSING THE BLAME AND TAKE OWNERSHIP.",2
+"THIS ISN’T A DEBATE - JUST DO IT.",2
+"YOUR LAZINESS IS IMPACTING THE ENTIRE TEAM.",2
+"I WILL NOT ACCEPT SUBPAR WORK LIKE THIS.",2
+"Would you be open to brainstorming together?",3
+"Your kindness in this matter means everything.",3
+"I admire how you handle complex situations.",3
+"Thank you for creating such a positive impact.",3
+"Could we align on a mutually beneficial path?",3
+"The quarterly report will be published Friday.",0
+"VPN maintenance is scheduled for Saturday at 2AM.",0
+"New HR policies are now available on the portal.",0
+"Your requested access to Project Orion has been granted.",0
+"The all-hands meeting recording has been posted.",0
+"Your password expires in 7 days.",0
+"Travel reimbursement forms now require manager approval.",0
+"Conference room bookings are limited to 2 hours.",0
+"FYI: The cafeteria will be closed for renovations next week.",0
+"Your software license renewal is pending.",0
+"Team offsite details have been added to the calendar.",0
+"Corporate card statements are due by the 5th.",0
+"New firewall rules take effect tomorrow.",0
+"Your requested document is attached.",0
+"Office temperature controls have been adjusted.",0
+"Parking validation now requires badge scanning.",0
+"Reminder: Timecards must be submitted by noon Friday.",0
+"The shared drive has been reorganized by department.",0
+"Your training module completion is at 87%.",0
+"Printing quotas reset on the first of each month.",0
+"Glad you could join us... only 20 minutes late.",1
+"Thanks for the *thorough* one-sentence update.",1
+"Interesting how this suddenly became urgent.",1
+"Per my last five emails...",1
+"Just following up since you've been so responsive.",1
+"Wow, you actually remembered this project exists.",1
+"Fascinating how deadlines work differently for you.",1
+"Shocking that nobody caught this earlier.",1
+"Thanks for the *minimal* effort here.",1
+"Let me know when this becomes a priority.",1
+"Your selective attention to detail is impressive.",1
+"Cool, we'll just pretend the timeline doesn't exist.",1
+"Must be nice to set your own response time standards.",1
+"Just checking if you're allergic to reply buttons.",1
+"Thanks for the advance notice... oh wait.",1
+"Interesting interpretation of 'ASAP'.",1
+"Glad we could align after only 7 reminders.",1
+"Your commitment to ignoring emails is remarkable.",1
+"Fascinating how my calendar invites keep expiring.",1
+"Thanks for the 11th-hour changes. Super helpful.",1
+"THIS IS COMPLETELY UNACCEPTABLE!",2
+"STOP WASTING COMPANY TIME!",2
+"ARE YOU EVEN TRYING TO DO YOUR JOB?",2
+"FIX THIS MESS IMMEDIATELY!",2
+"YOUR INCOMPETENCE IS COSTING US MONEY!",2
+"THIS IS THE WORST REPORT I'VE EVER SEEN!",2
+"WHY AM I REPEATING MYSELF?",2
+"DO YOU UNDERSTAND BASIC INSTRUCTIONS?",2
+"NO MORE EXCUSES - DELIVER TODAY!",2
+"THIS IS PROFESSIONAL MALPRACTICE!",2
+"I WILL ESCALATE THIS TO YOUR DIRECTOR!",2
+"STOP PASSING THE BUCK!",2
+"ARE YOU DELIBERATELY SABOTAGING THIS?",2
+"YOUR LAZINESS IS UNBELIEVABLE!",2
+"WAKE UP AND DO YOUR JOB!",2
+"THIS ISN'T ROCKET SCIENCE!",2
+"STOP IGNORING MY REQUESTS!",2
+"YOU'VE HAD WEEKS TO COMPLETE THIS SIMPLE TASK!",2
+"THIS LEVEL OF NEGLIGENCE IS UNACCEPTABLE!",2
+"DO YOU NEED ME TO HOLD YOUR HAND?",2
+"Would you be so kind as to review these figures?",3
+"I'd be deeply grateful for your expert opinion.",3
+"Your guidance would mean the world to our team.",3
+"Whenever you have capacity would be wonderful.",3
+"Thank you for going above and beyond!",3
+"I truly admire your attention to detail.",3
+"Could we explore this together when convenient?",3
+"Your mentorship has been invaluable - thank you!",3
+"I'd love to learn from your approach.",3
+"Many thanks for your patience and understanding.",3
+"Would you consider advising me on this matter?",3
+"Your thought leadership inspires us all.",3
+"Thank you for making time despite your busy schedule.",3
+"I'm sincerely grateful for your flexibility.",3
+"Could we partner on finding a solution?",3
+"Your generosity with feedback is appreciated.",3
+"Let me know how I can support you in this.",3
+"I value your perspective tremendously.",3
+"Your kindness makes all the difference.",3
+"Thank you for creating such a positive impact.",3
